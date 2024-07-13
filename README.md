@@ -6,6 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 ## Start to serve
-```agsl
+```shell
+ pnpm i
  pnpm dev 
 ```
